@@ -70,3 +70,21 @@ h2 {
 #nav a:hover {
 color: #66BFBF;
 }
+
+#aspire {
+    font-weight: bold;
+    color: #F8F8FF;
+  }
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+  
+.bottom-container {
+    display: block;
+    background-color: #66BFBF;
+    position: relative;
+    padding: 60px 0 10px 0;
+}
