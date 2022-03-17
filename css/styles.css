@@ -94,9 +94,33 @@ color: #66BFBF;
     height: 150px;
     border-radius: 50%;
     margin-top: 50px;
-  }
+}
 
 .intro {
     width: 80%;
     margin: auto;
+}
+
+.left-image {
+    width: 40%;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+  
+.right-image {
+    width: 40%;
+    float: right;
+    margin-right: 5px;
+    height: 150px;
+}
+
+.skill-row {
+    text-align: left;
+    margin: 100px auto;
+    width: 90%;
+}
+
+.left-title, .programming-skill{
+    text-align: right;
 }
