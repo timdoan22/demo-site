@@ -124,3 +124,47 @@ color: #66BFBF;
 .left-title, .programming-skill{
     text-align: right;
 }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.box {
+    margin-bottom: 20%;
+}
+  
+.block {
+    width: 50%;
+    justify-content: center;
+}
+  
+.portfolio-image {
+    height: 340px;
+    width: 340px;
+}
+
+@media screen and (max-width: 1470px) {
+    .portfolio-image {
+      height: 280px;
+      width: 280px;
+    }
+  }
+  
+  
+@media screen and (max-width: 1160px) {
+    .portfolio-image {
+        height: 340px;
+        width: 340px;
+        margin-bottom: 6%;
+    }
+    .block{
+      width: 100%;
+    }
+    .box {
+      margin-bottom: 14%;
+    }
+    #projects-title {
+      margin-bottom: 20%;
+    }
+}
