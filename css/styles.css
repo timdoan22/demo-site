@@ -191,6 +191,21 @@ color: #66BFBF;
     text-decoration: none;
 }
 
+.copyright-footer {
+    color: #EAF6F6;
+    font-size: 0.85rem;
+    margin: 50px;
+  }
+
+.footer-link {
+    margin: 30px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 1470px) {
     .portfolio-image {
       height: 280px;
