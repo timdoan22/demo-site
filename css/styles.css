@@ -261,12 +261,44 @@ color: #66BFBF;
         margin: 2.5em 0 0 0;
     }
 
-        footer > p {
-            font-size: 1.25em;
-        }
+    footer > p {
+        font-size: 1.25em;
+    }
 
     hr {
         margin: 20% 46%;
     }
+
+    .intro, .skills-row, .skills {
+        width: 110%;
+        text-align: center;
+      }
+      
+      .top-cloud {
+        top: 4%;
+      }
+      
+      .bottom-cloud {
+        top: 43%;
+        left: 66%;
+      }
+      
+      #mountain-image {
+        width: 96%;
+      }
+      
+      .left-image, .right-image {
+        margin: 0 auto;
+      }
+      
+      .right-image {
+        margin-bottom: -13%;
+      }
+      
+      #python-image, #js-image {
+        height: 60px;
+        width: 70px;
+        margin-bottom: 2%;
+      }
 
 }
