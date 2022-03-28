@@ -301,4 +301,34 @@ color: #66BFBF;
         margin-bottom: 2%;
       }
 
+      .contact-message {
+        width: 90%;
+      }
+      
+      .bottom-hr {
+        margin-top: 20%;
+      }
+      
+      .portfolio-hr {
+        margin: -14% 0 20% 44%;
+      }
+
+      #projects-title {
+        margin-bottom: 22%;
+      }
+
+      #about-title {
+        padding-right: 4%;
+      }
+
+      #intro-title {
+        margin: 10% 0 20% 0;
+      }
+
+      .portfolio-image {
+        height: 260px;
+        width: 260px;
+        margin-bottom: 10%;
+      }
+
 }
